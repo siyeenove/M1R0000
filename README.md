@@ -1,6 +1,6 @@
-# SIYEENOVE mArm - Micro:bit Robotic Arm Kit
+# SIYEENOVE mArm - micro:bit Robotic Arm Kit
 
-An educational robotic arm designed for learning embedded programming with Micro:bit using MakeCode.
+An educational robotic arm designed for learning embedded programming with micro:bit using MakeCode.
 
 mArm can be uploaded code using MakeCode.
 
